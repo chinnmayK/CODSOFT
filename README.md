@@ -1,5 +1,3 @@
-Here’s a detailed plain text `README` file for your project:
-
 ---
 
 # Face Recognition Project
