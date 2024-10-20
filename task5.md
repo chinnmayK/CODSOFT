@@ -1,6 +1,3 @@
-
----
-
 # Face Recognition Project
 
 This project implements a face recognition system using OpenCV for face detection and a machine learning model for recognition. It allows users to create a dataset, train a recognition model, and use that model to recognize faces in images or real-time video.
